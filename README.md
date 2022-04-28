@@ -1,4 +1,4 @@
-# certificard Imersão Dev Alura
+# Certificard Imersão Dev Alura
 
 O Certificard é o último projeto do curso A Imersão Dev de duas semanas com aulas gratuitas, onde todos os projetos desenvolvidos são agrupados e colados no Github:
 
