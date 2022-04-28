@@ -13,3 +13,8 @@ Certificard is the last project of the two-week Dev Immersion course with free c
 📊  Tabela de classificação <br />
 ⚔️  Super Trunfo <br />
 
+
+Site is published at https://jorgeedualves.github.io/certificard/
+
+Made by Jorge!
+See my LinkedIn:https://www.linkedin.com/in/jorge-eduardo-alves-094b4331/
